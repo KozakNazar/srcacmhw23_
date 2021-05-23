@@ -1,6 +1,6 @@
 {------------------------------------------------------------------------------------------
 - Lviv'2020 // ACM // Haskell functional programming(by quicksort implementation example) -
--    file: acmhw23.hs                                                                     -
+-    file: acmhw25_1.hs                                                                   -
 -------------------------------------------------------------------------------------------}
 import System.IO
 
